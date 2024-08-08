@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SXCI" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SXCI>
+    <IMPLEMENTATION_DATA>
+     <IMP_NAME>ZIMP_VB_BD_SELECTION</IMP_NAME>
+     <TEXT>Batch Determination Selection</TEXT>
+     <IMP_CLASS>ZCL_IM_IMP_VB_BD_SELECTION</IMP_CLASS>
+     <EXIT_NAME>VB_BD_SELECTION</EXIT_NAME>
+     <INTER_NAME>IF_EX_VB_BD_SELECTION</INTER_NAME>
+     <ACTIVE>X</ACTIVE>
+    </IMPLEMENTATION_DATA>
+   </SXCI>
+  </asx:values>
+ </asx:abap>
+</abapGit>

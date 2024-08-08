@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CMOD" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <MODACT>
+    <MODACT>
+     <NAME>ZMGO_BCL</NAME>
+    </MODACT>
+    <MODACT>
+     <NAME>ZMGO_BCL</NAME>
+     <MEMBER>CLFM0001</MEMBER>
+    </MODACT>
+    <MODACT>
+     <NAME>ZMGO_BCL</NAME>
+     <MEMBER>CLFM0002</MEMBER>
+    </MODACT>
+    <MODACT>
+     <NAME>ZMGO_BCL</NAME>
+     <MEMBER>SAPLV01Z</MEMBER>
+    </MODACT>
+    <MODACT>
+     <NAME>ZMGO_BCL</NAME>
+     <MEMBER>SAPLV1ZE</MEMBER>
+    </MODACT>
+   </MODACT>
+   <MODTEXT>
+    <MODTEXT>
+     <SPRSL>E</SPRSL>
+     <NAME>ZMGO_BCL</NAME>
+     <MODTEXT>MIGO Batch Classification</MODTEXT>
+    </MODTEXT>
+   </MODTEXT>
+   <MODATTR>
+    <MODATTR>
+     <NAME>ZMGO_BCL</NAME>
+     <STATUS>A</STATUS>
+    </MODATTR>
+   </MODATTR>
+  </asx:values>
+ </asx:abap>
+</abapGit>
